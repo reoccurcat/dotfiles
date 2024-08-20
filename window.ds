@@ -1,0 +1,6 @@
+(if
+  (not 
+    (wintype "dialog")
+    (maximize)
+  )
+)
